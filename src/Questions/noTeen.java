@@ -1,7 +1,6 @@
 package Questions;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /* noTeen (lambda)
@@ -11,7 +10,7 @@ noTeen([12, 13, 19, 20]) → [12, 20]
 noTeen([1, 14, 1]) → [1, 1]
 noTeen([15]) → []
  */
-public class Question05 {
+public class noTeen {
     public static void main(String[] args) {
 
 int[] arr={12,13,19,20};
